@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "PP4_TicTacToe/1.0.0": {
+        "runtime": {
+          "PP4_TicTacToe.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PP4_TicTacToe/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

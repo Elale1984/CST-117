@@ -1,0 +1,15 @@
+C:\Users\edwar\OneDrive\Desktop\CST-117\PP\PP4\PP4_TicTacToe\PP4_TicTacToe\bin\Debug\netcoreapp3.1\PP4_TicTacToe.exe
+C:\Users\edwar\OneDrive\Desktop\CST-117\PP\PP4\PP4_TicTacToe\PP4_TicTacToe\bin\Debug\netcoreapp3.1\PP4_TicTacToe.deps.json
+C:\Users\edwar\OneDrive\Desktop\CST-117\PP\PP4\PP4_TicTacToe\PP4_TicTacToe\bin\Debug\netcoreapp3.1\PP4_TicTacToe.runtimeconfig.json
+C:\Users\edwar\OneDrive\Desktop\CST-117\PP\PP4\PP4_TicTacToe\PP4_TicTacToe\bin\Debug\netcoreapp3.1\PP4_TicTacToe.runtimeconfig.dev.json
+C:\Users\edwar\OneDrive\Desktop\CST-117\PP\PP4\PP4_TicTacToe\PP4_TicTacToe\bin\Debug\netcoreapp3.1\PP4_TicTacToe.dll
+C:\Users\edwar\OneDrive\Desktop\CST-117\PP\PP4\PP4_TicTacToe\PP4_TicTacToe\bin\Debug\netcoreapp3.1\PP4_TicTacToe.pdb
+C:\Users\edwar\OneDrive\Desktop\CST-117\PP\PP4\PP4_TicTacToe\PP4_TicTacToe\obj\Debug\netcoreapp3.1\PP4_TicTacToe.Form1.resources
+C:\Users\edwar\OneDrive\Desktop\CST-117\PP\PP4\PP4_TicTacToe\PP4_TicTacToe\obj\Debug\netcoreapp3.1\PP4_TicTacToe.csproj.GenerateResource.cache
+C:\Users\edwar\OneDrive\Desktop\CST-117\PP\PP4\PP4_TicTacToe\PP4_TicTacToe\obj\Debug\netcoreapp3.1\PP4_TicTacToe.AssemblyInfoInputs.cache
+C:\Users\edwar\OneDrive\Desktop\CST-117\PP\PP4\PP4_TicTacToe\PP4_TicTacToe\obj\Debug\netcoreapp3.1\PP4_TicTacToe.AssemblyInfo.cs
+C:\Users\edwar\OneDrive\Desktop\CST-117\PP\PP4\PP4_TicTacToe\PP4_TicTacToe\obj\Debug\netcoreapp3.1\PP4_TicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\edwar\OneDrive\Desktop\CST-117\PP\PP4\PP4_TicTacToe\PP4_TicTacToe\obj\Debug\netcoreapp3.1\PP4_TicTacToe.dll
+C:\Users\edwar\OneDrive\Desktop\CST-117\PP\PP4\PP4_TicTacToe\PP4_TicTacToe\obj\Debug\netcoreapp3.1\PP4_TicTacToe.pdb
+C:\Users\edwar\OneDrive\Desktop\CST-117\PP\PP4\PP4_TicTacToe\PP4_TicTacToe\obj\Debug\netcoreapp3.1\PP4_TicTacToe.genruntimeconfig.cache
+C:\Users\edwar\OneDrive\Desktop\CST-117\PP\PP4\PP4_TicTacToe\PP4_TicTacToe\obj\Debug\netcoreapp3.1\PP4_TicTacToe.csproj.AssemblyReference.cache
