@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Inventory Manager/1.0.0": {
+        "dependencies": {
+          "InventoryItemClass": "1.0.0"
+        },
+        "runtime": {
+          "Inventory Manager.dll": {}
+        }
+      },
+      "InventoryItemClass/1.0.0": {
+        "runtime": {
+          "InventoryItemClass.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Inventory Manager/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "InventoryItemClass/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
