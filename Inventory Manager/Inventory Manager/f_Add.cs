@@ -1,9 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Text;
+
 using System.Windows.Forms;
 using InventoryItemClass;
 
@@ -30,12 +26,10 @@ namespace Inventory_Manager
             int item_Quantity = int.Parse(tb_itemQuant.Text);
             double item_PPrice = double.Parse(tb_itemPPrice.Text);
             double item_LPrice = double.Parse(tb_itemLPrice.Text);
-            String item_Desc = tb_itemDesc.Text;
             DateTime item_ListDate = DateTime.Today;
 
 
-            InventoryItem item = new InventoryItem(item_SKU, item_Cat, item_Name,item_Quantity,item_PPrice,item_LPrice,
-                item_Desc,item_ListDate);
+            InventoryItem item = new InventoryItem(item_SKU, item_Cat, item_Name,item_Quantity,item_PPrice,item_LPrice, item_ListDate);
             
             InventoryManagerMain.list.Add(item);
 
@@ -49,5 +43,7 @@ namespace Inventory_Manager
         {
             ActiveForm.Close();
         }
+
+       
     } 
 }

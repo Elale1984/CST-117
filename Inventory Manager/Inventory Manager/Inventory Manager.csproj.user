@@ -1,16 +1,25 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
+    <Compile Update="EditItem.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="InventoryManagerMain.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Update="f_Add.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="Restock.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="Search.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Update="SearchResult.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SoldItemTracker.cs">
       <SubType>Form</SubType>
     </Compile>
   </ItemGroup>
